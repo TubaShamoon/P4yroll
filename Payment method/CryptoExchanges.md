@@ -1,38 +1,24 @@
-# 1. CEX.IO Cryptocurrency Exchange
+| Features                                  | Coinbase Cryptocurrency Exchange                                                                          | Binance US Cryptocurrency Exchange                                                                   | Binance.com Cryptocurrency Exchange                                                               | CEX.IO Cryptocurrency Exchange                                                                     | Gemini Cryptocurrency Exchange                                                                     | Kraken Cryptocurrency Exchange                                                                      |
+|-------------------------------------------|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| Cryptocurrency Selection                  | Coinbase offers a wide selection of cryptocurrencies, including Bitcoin (BTC), Ethereum (ETH), Ripple (XRP), Litecoin (LTC), Bitcoin Cash (BCH), Cardano (ADA), and more. | Binance US provides a diverse range of cryptocurrencies, including Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), Ripple (XRP), and more.               | Binance.com offers a wide range of cryptocurrencies, including Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), Ripple (XRP), and more.                       | CEX.IO provides access to popular cryptocurrencies such as Bitcoin (BTC), Ethereum (ETH), Ripple (XRP), Litecoin (LTC), and Bitcoin Cash (BCH), among others. | Gemini supports a range of cryptocurrencies, including Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), and more.                                              | Kraken offers a wide selection of cryptocurrencies, including Bitcoin (BTC), Ethereum (ETH), Ripple (XRP), Litecoin (LTC), and more.                               |
+| Fiat Currency Support                     | Coinbase supports fiat currency trading pairs, allowing users to buy cryptocurrencies with USD, EUR, GBP, CAD, and more.                                             | Binance US supports trading cryptocurrencies against USD.                                         | Binance.com supports trading cryptocurrencies against USD, EUR, GBP, and more.                                                                                     | CEX.IO supports fiat currency trading pairs, enabling users to buy cryptocurrencies using USD, EUR, GBP, and more.                                               | Gemini supports trading cryptocurrencies against USD.                                              | Kraken supports fiat currency trading pairs, allowing users to trade cryptocurrencies with USD, EUR, GBP, and more.                                               |
+| Security Measures                         | Coinbase implements robust security measures, including two-factor authentication (2FA) and secure storage of funds.                                                | Binance US employs advanced security measures, including 2FA and cold storage for the majority of user funds.                                                  | Binance.com prioritizes security with features like 2FA, cold storage, and account monitoring.                                                                       | CEX.IO prioritizes the security of user funds with measures like 2FA, encryption, and cold storage for cryptocurrencies.                                        | Gemini prioritizes security with measures like cold storage, 2FA, and multi-signature wallets.                                                                      | Kraken emphasizes security through features like cold storage, 2FA, and encrypted communication.                                                                   |
+| Trading Fee                               | Coinbase charges trading fees that vary based on the trading volume and region.                           | Binance US charges trading fees based on the trading volume and promotions.                          | Binance.com charges trading fees based on the trading volume and promotions.                                                                                         | CEX.IO doesn't charge fees for bank transfers, but any charges depend on the user's bank.                                                                       | Gemini doesn't charge fees for bank transfers, but any charges depend on the user's bank.                                                                       | Kraken has a tiered fee structure based on the trading volume and the type of trade.                                                                             | kraken provides
+| Payment Methods                           | Bank transfer is only available to US based clients not for customer                                    | Binance US  bank transfers, ACH, wire transfers, and cryptocurrency deposits are ban               | Binance.com supports various payment methods, including bank transfers, credit/debit cards, and cryptocurrency deposits.                                             | CEX.IO allows electronic transfers through banks to their exchange platform.                       | Gemini allows electronic transfers through banks to their
 
-CEX.IO is a well-established cryptocurrency exchange that offers a range of services for buying, selling, and trading cryptocurrencies.
+``
+# Crypto wallet 
+| Cryptocurrency Wallet | Cryptocurrency Selection                  | Fiat Currency Support | Security Measures | Trading Fee | Payment Methods | Websites                                |
+|-------------------------------|------------------------------------------|----------------------|-------------------|--------------|-----------------|-----------------------------------------|
+| MetaMask                      | Ethereum-based coins                      | No support           | Secure key        | Varies       | Cryptocurrency  | [MetaMask](https://metamask.io/)         |
+| Trust Wallet                  | Ethereum, Binance Smart Chain, and more   | No support           | Secure key        | Varies       | Cryptocurrency  | [Trust Wallet](https://trustwallet.com/) |
+| 1inch                         | Various cryptocurrencies across platforms | No support           | Secure wallet     | Varies       | Cryptocurrency  | [1inch](https://1inch.io/)               |
 
-## Features
-
-- **Cryptocurrency Selection**: CEX.IO provides access to popular cryptocurrencies such as Bitcoin (BTC), Ethereum (ETH), Ripple (XRP), Litecoin (LTC), and Bitcoin Cash (BCH), among others.
-- **Fiat Currency Support**: CEX.IO supports fiat currency trading pairs, enabling users to buy cryptocurrencies using traditional currencies like USD, EUR, and GBP.
-- **Security Measures**: CEX.IO prioritizes the security of user funds and employs measures such as two-factor authentication (2FA), encryption, and cold storage for cryptocurrencies.
-# Trading Fee
-- Through bank transfer CEX.IO don't charge any fee on such transactions
--  It depends on bank side, whether they charge you or not
-# ACH Transfer 
-- Yes, They are allowing electronic transfer through bank to their exchange companies
-## Getting Started
-
-To get started with CEX.IO, visit their official website at [https://cex.io](https://cex.io) 
-
-
-
-
-# 2. Gemini Cryptocurrency Exchange
-
-Gemini is a trusted and regulated cryptocurrency exchange based in the United States.
-
-## Features
-
-- **Trust and Regulation**: Gemini operates as a licensed and regulated entity, providing a secure and compliant environment for users.
-- **Cryptocurrencies**: Gemini supports a range of cryptocurrencies, including Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), and more.
-- **Security Measures**: Gemini prioritizes security with measures like cold storage, two-factor authentication (2FA), and multi-signature wallets.
-- **Gemini Wallet**: A custodial wallet solution within the Gemini ecosystem for secure cryptocurrency storage.
-# Trading Fee
-- Through bank transfer Gimini don't charge any fee on such transactions
--  It depends on bank side, whether they charge you or not
-# ACH Transfer 
-- Yes, They are allowing electronic transfer through bank to their exchange companies
-## Getting Started
- [https://gemini.com](https://gemini.com) 
+## Other details
+- MetaMask and Trust Wallet do not directly support transfers from US banks to cryptocurrencies.
+- These wallets are primarily designed for storing and managing cryptocurrencies, and they do not have built-in functionality for connecting directly with traditional banking systems.
+- They need a crypto exchange in order to deposit the funds like Binance, Kraken,CEX etc
+## 1inch wallet
+- 1inch is not a wallet or exchange either, but rather a decentralized exchange (DEX) aggregator.
+- It searches multiple decentralized exchanges for the best prices and liquidity, allowing users to make trades across different DEX platforms.
+- It provides users with the ability to swap cryptocurrencies at the most favorable rates available on the decentralized market.
