@@ -11,3 +11,5 @@
   - ZenGo
   - Ledger Nano S Plus
   - Electrum
+  - 
+source:  https://www.bitrawr.com/estonia
