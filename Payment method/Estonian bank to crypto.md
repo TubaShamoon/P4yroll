@@ -1,7 +1,6 @@
 # Top 3: 
 - Binance
 - Kraken
-- Bitpanda
 - Coinbase
 - Coinmama
 - Uphold
@@ -35,4 +34,14 @@ Uphold is a digital platform that offers a range of financial services. Here are
 
 ### Transparency and Security
 - Uphold prioritizes transparency and implements strong security measures to protect user funds and personal information. It utilizes features like two-factor authentication (2FA) and encryption techniques.
+  # Changelly 
+
+- Currency Exchange: Swap cryptocurrencies (Bitcoin, Ethereum, and more) with ease.
+- Fiat-to-Crypto Transactions: Purchase cryptocurrencies (Bitcoin, Ethereum, etc.) using local fiat currencies (Estonian Kroon, Euro, etc.).
+- Instant Transfers: Enjoy fast and seamless cryptocurrency transfers, including popular cryptocurrencies like Bitcoin, Ethereum, Ripple, Litecoin, and more.
+- User-Friendly Interface: Navigate the platform effortlessly and initiate transactions with ease.
+- Competitive Fees: Transparent fee structure ensures fair pricing for exchanges, including conversion fees and blockchain network fees.
+- Security and Privacy: Protects user funds and prioritizes privacy by not storing personal information.
+
+
 
