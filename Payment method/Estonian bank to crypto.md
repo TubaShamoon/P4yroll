@@ -54,7 +54,7 @@ Challengly:
 
 [uphold crypto exchange supported areas](https://www.bing.com/search?q=uphold+crypto+exchange+supported+areas&qs=n&form=QBRE&sp=-1&lq=0&pq=uphold+crypto+exchange+supported+areas&sc=10-38&sk=&cvid=C1079B3D53C54DD1A8D764C259B14E78&ghsh=0&ghacc=0&ghpl=)
 
- Coinmama:  
+ Coinmama: 
  
 
 [Restricted countries and states](https://support.coinmama.com/hc/en-us/articles/360012684299-Restricted-countries-and-states)
